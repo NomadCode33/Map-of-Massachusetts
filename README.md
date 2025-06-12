@@ -32,15 +32,15 @@ Through this project, I learned several valuable lessons that have significantly
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
+**Map of New York:** [Map of New York](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
 
-**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
 
-**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
+**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
